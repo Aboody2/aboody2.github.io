@@ -2,6 +2,12 @@
 **Database Analyst | Senior CS Student @ UW Tacoma**  
 **Data • Software • Cloud**
 
+<h1 align="center">Abdullahi Farah</h1>
+<p align="center"><b>Database Analyst | Senior CS Student @ UW Tacoma</b></p>
+
+<p align="center">
+  <img src="./profile.jpg" alt="Abdullahi Farah" width="260">
+</p>
 > “Transforming information into insights — and insights into scalable solutions.”
 
 ---
