@@ -10,15 +10,6 @@
 ---
 
 ## 🏠 Home / Introduction
-Hi! I’m Abdullahi Farah, a Senior Computer Science student at the University of Washington Tacoma with a strong interest in data analytics, software development, and cloud technologies.
-
-I enjoy designing intelligent, data-driven applications and building efficient backend systems that solve real problems. My focus is on becoming a data-focused software engineer capable of creating impactful, scalable solutions.
-
-> “Transforming information into insights — and insights into scalable solutions.”
-
----
-
-## 🏠 Home / Introduction
 
 Hi! I’m **Abdullahi Farah**, a **Senior Computer Science student at the University of Washington Tacoma** with a strong interest in **data analytics**, **software development**, and **cloud technologies**.
 
