@@ -2,7 +2,7 @@
 <p align="center"><b>Database Analyst | Senior CS Student @ UW Tacoma</b></p>
 
 <p align="center">
-  <img src="./profile.jpeg" alt="Abdullahi Farah professional photo" width="260">
+  <img src="./Profile.jpeg" alt="Abdullahi Farah" width="260">
 </p>
 
 > “Transforming information into insights — and insights into scalable solutions.”
