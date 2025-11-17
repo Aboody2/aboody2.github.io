@@ -143,8 +143,8 @@ Database Design, Data Structures, Software Engineering, Cloud Computing, Web API
 
 ## 💼 Experience
 
-### **Security Officer — Securitas (Amazon Campus, WA)**  
-*Dates: Add here*
+### **Security Operator — Securitas (Amazon Campus, WA)**  
+*Dates:Feb 2023 - Jan 2025*
 
 - Ensured safe and secure environments at Amazon sites.  
 - Followed strict protocols and documented incidents accurately.  
