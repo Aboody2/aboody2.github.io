@@ -1,4 +1,4 @@
-]# Abdullahi Farah  
+ Abdullahi Farah  
 **Database Analyst | Senior CS Student @ UW Tacoma**  
 **Data • Software • Cloud**
 
