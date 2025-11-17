@@ -1,13 +1,19 @@
- Abdullahi Farah  
-**Database Analyst | Senior CS Student @ UW Tacoma**  
-**Data • Software • Cloud**
-
 <h1 align="center">Abdullahi Farah</h1>
 <p align="center"><b>Database Analyst | Senior CS Student @ UW Tacoma</b></p>
 
 <p align="center">
-  <img src="./Profile.jpeg" alt="Abdullahi Farah" width="260">
+  <img src="./profile.jpeg" alt="Abdullahi Farah professional photo" width="260">
 </p>
+
+> “Transforming information into insights — and insights into scalable solutions.”
+
+---
+
+## 🏠 Home / Introduction
+Hi! I’m Abdullahi Farah, a Senior Computer Science student at the University of Washington Tacoma with a strong interest in data analytics, software development, and cloud technologies.
+
+I enjoy designing intelligent, data-driven applications and building efficient backend systems that solve real problems. My focus is on becoming a data-focused software engineer capable of creating impactful, scalable solutions.
+
 > “Transforming information into insights — and insights into scalable solutions.”
 
 ---
