@@ -83,6 +83,7 @@ TLQ (Transform–Load–Query) pipeline to measure cloud performance and cost.
 - Performance metrics: runtime, cold starts, cost comparison
 
 **Focus:** AWS fundamentals, performance analysis, cloud architecture
+
 ---
 
 ## 🛠 Skills
