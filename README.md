@@ -23,7 +23,7 @@
 
 ---
 
-## Home / Introduction
+## Home
 
 Hi! I’m Abdullahi Farah, a Senior Computer Science student at the University of Washington Tacoma with a strong interest in data analytics, software development, and cloud technologies.
 
