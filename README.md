@@ -116,6 +116,11 @@ Problem-solving · Backend architecture · Data modeling · Cloud fundamentals
 
 ---
 
+## Soft Skills
+Communication · Team Collaboration · Time Management · Adaptability · Critical Thinking
+
+---
+
 ## Education
 
 **University of Washington Tacoma** — B.A. Computer Science (2024–2026)  
