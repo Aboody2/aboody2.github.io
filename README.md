@@ -52,7 +52,7 @@ I bring strong analytical thinking, solid programming foundations, and growing e
 
 ## Projects (Work in Progress)
 
-### TCSS 360 — Trivia Maze Game  
+### Trivia Maze Game  
 **Java – JavaFX – MVC – SQLite**
 
 Maze-based trivia game where each door is unlocked by answering a question. Incorrect answers permanently lock paths, forcing strategy.
@@ -67,7 +67,7 @@ Focus: UI logic, architecture, data management
 
 ---
 
-### TCSS 445 — TicketTrack Database System  
+### TicketTrack Database System  
 **SQL – Node.js – MySQL – GCP VM**
 
 A database-driven web app for managing tickets and users with safe SQL transactions.
@@ -82,7 +82,7 @@ Focus: SQL integrity, schema design, real-world database use
 
 ---
 
-### TCSS 462 — Cloud TLQ Pipeline  
+### Cloud TLQ Pipeline  
 **AWS Lambda – EC2 – S3 – Bash**
 
 A TLQ pipeline comparing serverless AWS Lambda performance with EC2 compute.
