@@ -5,174 +5,156 @@
   <img src="./Profile.jpeg" alt="Abdullahi Farah" width="260">
 </p>
 
-> “Transforming information into insights — and insights into scalable solutions.”
+<p align="center"><i>“Transforming information into insights — and insights into scalable solutions.”</i></p>
 
 ---
 
-## 🏠 Home / Introduction
+## Home / Introduction
 
-Hi! I’m **Abdullahi Farah**, a **Senior Computer Science student at the University of Washington Tacoma** with a strong interest in **data analytics**, **software development**, and **cloud technologies**.
+Hi! I’m Abdullahi Farah, a Senior Computer Science student at the University of Washington Tacoma with a strong interest in data analytics, software development, and cloud technologies.
 
-I enjoy designing intelligent, data-driven applications and building efficient backend systems that solve real problems. My focus is on becoming a **data-focused software engineer** capable of creating impactful, scalable solutions.
+I enjoy designing intelligent, data-driven applications and building backend systems that solve real problems. My goal is to become a data-focused software engineer working with scalable and meaningful technologies.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I’m passionate about building systems that turn raw data into actionable knowledge.  
-My experience spans:
+My experience includes:
 
-- **Database design and data modeling**
-- **Backend and full-stack development**
-- **Cloud computing and serverless architectures**
-- **Data analytics and problem-solving**
+- Database design and data modeling  
+- Backend and full-stack development  
+- Cloud computing and serverless architectures  
+- Data analytics and problem-solving  
 
-What motivates me most is using technology to **drive smarter decisions** and deliver meaningful results. I bring:
+I bring strong analytical thinking, solid programming foundations, and growing expertise with cloud systems. I aim to pursue roles such as:
 
-- Strong analytical thinking  
-- Solid foundations in programming & database architecture  
-- Growing expertise with cloud and distributed systems  
-- Consistent project experience across multiple CS disciplines  
-
-As I continue my journey, I’m aiming for roles such as:  
-**Data Engineer**, **Backend Developer**, **Cloud Developer**, or **Full-Stack Engineer**.
+- Data Engineer  
+- Backend Developer  
+- Cloud Developer  
+- Full-Stack Engineer  
 
 ---
 
-## 🚧 Projects (Work in Progress)
+## Projects (Work in Progress)
 
-### ⭐ TCSS 360 — Trivia Maze Game  
-**Java · JavaFX · MVC · SQLite**
+### TCSS 360 — Trivia Maze Game  
+**Java – JavaFX – MVC – SQLite**
 
-A maze-based trivia game where each door is unlocked by answering a question. Incorrect answers permanently lock paths — creating strategy and risk.
+A maze-based trivia game where each door is unlocked by answering a question. Wrong answers permanently lock paths, forcing strategic choices.
 
-**Core Features**
+**Key features:**
 - MVC architecture  
-- SQLite question database  
-- Multiple question formats (MCQ, T/F, short answer)  
-- Save/load game state (serialization)
+- SQLite database for questions  
+- Multiple question formats  
+- Save/load game using serialization  
 
-**Focus:** clean architecture, UI logic, database integration
-
----
-
-### ⭐ TCSS 445 — TicketTrack Database System  
-**SQL · Node.js (Express) · MySQL · GCP VM**
-
-Database web app that manages ticket sales, buyers, and safe ticket transfers across users.
-
-**Core Features**
-- Complete ER diagram & database schema  
-- REST API (Node.js + Express)  
-- Transaction-safe ticket transfer (`BEGIN`, `COMMIT`, `ROLLBACK`)  
-- Hosted on Ubuntu VM (GCP)
-
-**Focus:** SQL, schema design, real-world database management
+Focus areas: architecture, UI logic, data management  
 
 ---
 
-### ⭐ TCSS 462 — Cloud Computing TLQ Pipeline  
-**AWS Lambda · EC2 · S3 · Serverless vs EC2**
+### TCSS 445 — TicketTrack Database System  
+**SQL – Node.js (Express) – MySQL – GCP VM**
 
-TLQ (Transform–Load–Query) pipeline to measure cloud performance and cost.
+A full database web application that manages ticket purchases, buyers, and secure ticket transfers using SQL transactions.
 
-**Core Features**
+**Key features:**
+- Relational schema & ER diagram  
+- REST API with Express  
+- Transaction-safe ticket transfer  
+- Hosted on Ubuntu VM (GCP)  
+
+Focus areas: SQL optimization, data integrity, real-world database modeling  
+
+---
+
+### TCSS 462 — Cloud TLQ Pipeline  
+**AWS Lambda – EC2 – S3 – Bash Automation**
+
+A cloud-based TLQ (Transform–Load–Query) pipeline built to compare performance and cost between serverless AWS Lambda and EC2.
+
+**Key features:**
 - Lambda compute functions  
-- S3 for data storage  
-- Bash automation & benchmarking  
-- Performance metrics: runtime, cold starts, cost comparison
+- S3 storage for data  
+- Automated Bash benchmarking  
+- Performance metrics (runtime, cold starts, cost)  
 
-**Focus:** AWS fundamentals, performance analysis, cloud architecture
-
----
-
-## 🛠 Skills
-
-### **Programming Languages**
-- Java  
-- Python  
-- JavaScript / TypeScript  
-- SQL  
-- Bash  
-
-### **Frameworks & Tools**
-- JavaFX  
-- Node.js / Express  
-- React / Next.js  
-- JUnit  
-- Postman / Newman  
-
-### **Databases**
-- PostgreSQL  
-- SQLite  
-
-### **Cloud Technologies**
-- AWS Lambda  
-- AWS EC2  
-- AWS S3  
-- Serverless architecture  
-
-### **Core Strengths**
-- Data modeling  
-- Analytical problem-solving  
-- Backend logic  
-- Cloud fundamentals  
-- Systems thinking  
+Focus areas: AWS fundamentals, cloud architecture, performance analysis  
 
 ---
 
-## 🎓 Education
+## Skills
 
-### **University of Washington Tacoma**  
-**Bachelor of Arts in Computer Science**  
-*2024 – 2026*  
+**Programming Languages**  
+Java · Python · JavaScript/TypeScript · SQL · Bash  
+
+**Tools & Frameworks**  
+JavaFX · Node.js/Express · React/Next.js · JUnit · Postman  
+
+**Databases**  
+PostgreSQL · SQLite  
+
+**Cloud Technologies**  
+AWS Lambda · EC2 · S3 · Serverless  
+
+**Core Strengths**  
+Data modeling · Backend logic · Cloud fundamentals · Analytical problem-solving  
+
+---
+
+## Education
+
+**University of Washington Tacoma**  
+Bachelor of Arts — Computer Science (2024–2026)  
+Relevant coursework: Data Structures, Software Engineering, Cloud Computing, Database Design  
 Activities: Muslim Student Association (MSA)  
-Relevant coursework:  
-Database Design, Data Structures, Software Engineering, Cloud Computing, Web API Development
 
-### **Highline College**  
-**Associate Degree – Computer Science**  
-*2022 – 2024*
+**Highline College**  
+Associate Degree — Computer Science (2022–2024)  
 
 ---
 
-## 💼 Experience
+## Experience
 
-### **Security Operator — Securitas (Amazon Campus, WA)**  
-*Dates:Feb 2023 - Jan 2025*
-
-- Ensured safe and secure environments at Amazon sites.  
-- Followed strict protocols and documented incidents accurately.  
-- Developed strong communication, awareness, and time-management skills.  
-- Demonstrated reliability while balancing work and full-time CS studies.
+**Security Operator – Securitas (Amazon Campus, WA)**  
+Feb 2023 – Jan 2025  
+- Secured Amazon facilities and followed strict safety protocols  
+- Developed communication and awareness skills  
+- Balanced full-time work and full-time CS studies  
 
 ---
 
-## 📄 Resume  
+## Resume  
 👉 **[Download My Resume (PDF)](./resume.pdf)**  
-*(Upload `resume.pdf` to your repo root.)*
 
 ---
 
-## 📬 Contact
+## Contact
 
-- **Email:** abdbfara@uw.edu  
-- **LinkedIn:** https://www.linkedin.com/in/abdullahifarah  
-- **GitHub:** https://github.com/aboody2  
-- **Portfolio:** https://aboody2.github.io
+<p align="center">
+  <a href="mailto:abdbfara@uw.edu">
+    <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" width="40" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abdullahifarah">
+    <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" width="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/aboody2">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="40" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="#home--introduction">Home</a> ·
+  <a href="#about-me">About</a> ·
+  <a href="#projects-work-in-progress">Projects</a> ·
+  <a href="#skills">Skills</a> ·
+  <a href="#education">Education</a> ·
+  <a href="#experience">Experience</a> ·
+  <a href="#contact">Contact</a>
+</p>
 
 ---
 
-### 🔗 Quick Navigation  
-- [Home](#-home--introduction)  
-- [About Me](#-about-me)  
-- [Projects](#-projects-work-in-progress)  
-- [Skills](#-skills)  
-- [Education](#-education)  
-- [Experience](#-experience)  
-- [Resume](#-resume)  
-- [Contact](#-contact)
-
----
-
-_This portfolio will evolve as I complete more projects in data analytics, backend engineering, and cloud computing._
+_This portfolio will grow with more backend, cloud, and data engineering projects._
