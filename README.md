@@ -41,54 +41,48 @@ As I continue my journey, I’m aiming for roles such as:
 
 ## 🚧 Projects (Work in Progress)
 
-### ⭐ 1. TCSS 360 — Trivia Maze Game  
-**Java · JavaFX · MVC · SQLite · JUnit**
+### ⭐ TCSS 360 — Trivia Maze Game  
+**Java · JavaFX · MVC · SQLite**
 
-A Java-based maze game where players attempt to navigate through different rooms by answering trivia questions correctly. Wrong answers lock doors, adding strategy to the game.
+A maze-based trivia game where each door is unlocked by answering a question. Incorrect answers permanently lock paths — creating strategy and risk.
 
-**Highlights**
-- Implemented **MVC architecture**  
-- Integrated **SQLite** for question storage  
-- Built interactive **JavaFX UI**  
-- Added save/load functionality  
-- Wrote automated **JUnit tests**
+**Core Features**
+- MVC architecture  
+- SQLite question database  
+- Multiple question formats (MCQ, T/F, short answer)  
+- Save/load game state (serialization)
 
-**Key Learnings:**  
-Clean architecture, UI state management, database integration, and collaborative software development.
+**Focus:** clean architecture, UI logic, database integration
 
 ---
 
-### ⭐ 2. TCSS 445 — Database Management System Project  
-**SQL · ER Diagrams · Schema Design · Query Optimization**
+### ⭐ TCSS 445 — TicketTrack Database System  
+**SQL · Node.js (Express) · MySQL · GCP VM**
 
-A full database system built using relational modeling and advanced SQL.
+Database web app that manages ticket sales, buyers, and safe ticket transfers across users.
 
-**Highlights**
-- Designed complete **ER diagram & relational schema**  
-- Defined keys, constraints, and normalization up to BCNF  
-- Wrote advanced SQL queries (joins, aggregation, subqueries)  
-- Modeled realistic business processes (events, buyers, tickets)
+**Core Features**
+- Complete ER diagram & database schema  
+- REST API (Node.js + Express)  
+- Transaction-safe ticket transfer (`BEGIN`, `COMMIT`, `ROLLBACK`)  
+- Hosted on Ubuntu VM (GCP)
 
-**Key Learnings:**  
-Database theory, schema optimization, relational integrity, and efficient query writing.
+**Focus:** SQL, schema design, real-world database management
 
 ---
 
-### ⭐ 3. TCSS 462 — Cloud Computing TLQ Pipeline  
-**AWS Lambda · EC2 · S3 · Serverless Computing · Performance Metrics**
+### ⭐ TCSS 462 — Cloud Computing TLQ Pipeline  
+**AWS Lambda · EC2 · S3 · Serverless vs EC2**
 
-A cloud-based TLQ (Transform–Load–Query) pipeline built with serverless architecture to compare performance and cost with EC2 environments.
+TLQ (Transform–Load–Query) pipeline to measure cloud performance and cost.
 
-**Highlights**
-- Built multiple **AWS Lambda functions**  
-- Used **S3** for input/output storage  
-- Benchmarked serverless vs EC2 compute  
-- Automated tests with Bash scripts  
-- Analyzed cold starts, throughput, and runtime metrics
+**Core Features**
+- Lambda compute functions  
+- S3 for data storage  
+- Bash automation & benchmarking  
+- Performance metrics: runtime, cold starts, cost comparison
 
-**Key Learnings:**  
-Cloud cost modeling, serverless trade-offs, pipeline scalability, and performance engineering.
-
+**Focus:** AWS fundamentals, performance analysis, cloud architecture
 ---
 
 ## 🛠 Skills
